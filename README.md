@@ -1,4 +1,4 @@
-# Coud Network
+# Cloud Network
 
 This is a collection of Linux Scripts and Ansible Scripts from my CyberClass.
 

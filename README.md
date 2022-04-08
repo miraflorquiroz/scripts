@@ -15,7 +15,7 @@ Update the path with the name of your diagram] https://github.com/miraflorquiroz
 
 These files have been tested and used to generate a live ELK deployment on Azure. They can be used to either recreate the entire deployment pictured above. Alternatively, select portions of the Project 1 Red-Team Network Diagrams file may be used to install only certain pieces of it, such as Filebeat.
 
-Enter the playbook file. https://github.com/miraflorquiroz/scripts/blob/e12500c898c1e297c389a41351105501f2d32a82/Ansible/filebeat-playbook.yml 
+Playbook file. https://github.com/miraflorquiroz/scripts/blob/e12500c898c1e297c389a41351105501f2d32a82/Ansible/filebeat-playbook.yml 
 
 This document contains the following details:
 
@@ -94,7 +94,7 @@ In 3-5 bullets, explain the steps of the ELK installation play. E.g., install Do
 
 The following screenshot displays the result of running docker ps after successfully configuring the ELK instance.
 
-!Update the path with the name of your screenshot of docker ps output
+!Path with the name of screenshot of docker ps output
 
 https://github.com/miraflorquiroz/scripts/blob/9fdcb772b1346edfb0ea245d00802b45daaa3ee0/Diagrams/docker%20ps.png
 
